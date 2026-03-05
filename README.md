@@ -1,2 +1,37 @@
-# Fake_News_Detection
-The application "Fake News Detector" is developed using the Python and Streamlit technologies, which can detect fake news using machine learning technology. The application uses TF-IDF vectorization to analyze the news text, and the Logistic Regression model is employed to classify the news as real or fake.
+
+# Fake News Detector
+
+Fake News Detector is a simple machine learning web application that analyzes a news headline and predicts whether it is **Real** or **Fake**.
+
+The application is built using **Python, Streamlit, and Scikit‑learn**.
+
+## Features
+
+- Detect fake news headlines
+- Simple machine learning model
+- Interactive web interface
+- Easy to run locally
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Scikit-learn
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/fake-news-detector.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the application:
+
+streamlit run app.py
+
+## Author
+
+Aditya Utkarsh
